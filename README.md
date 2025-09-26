@@ -1,6 +1,3 @@
-# Monopole_antenna
-Antenna design in HFSS Tool
-
 Monopole Antenna (3.3 GHz)
 
 Project Overview
@@ -36,4 +33,3 @@ The project was carried out using ANSYS HFSS, focusing on geometry design, solve
 Notes
 - Results may vary depending on mesh settings and boundary conditions.  
 - Contributions and suggestions are welcome.
-

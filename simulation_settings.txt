@@ -1,0 +1,25 @@
+Simulation settings — Monopole Antenna HFSS
+
+HFSS version: HFSS 2022 R1
+ Geometry
+- Frequency: 3.3Ghz
+- Lambda: 0.090909
+- Antenna type: Monopole (quarter-wave)
+- Monopole length: 22 mm
+- Monopole radius: 0.0625 mm
+- Ground plane: 20mm ×40mm
+- Port: YSize: 0.0625 ZSize: -0.125
+ Feed
+- Feed type: lumped port 
+- Feed location: z axis
+
+Materials
+- Conductor: Pec
+-vacuum
+
+ Boundaries
+- Radiation box : XSize - 20mm, YSize - 40mm, ZSize - 70mm
+
+Outputs
+- S11 (exported to 'results_s11_data.csv')
+- Radiation pattern (3D, E-plane, H-plane)

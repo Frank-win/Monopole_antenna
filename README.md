@@ -35,3 +35,4 @@ Notes
 - Results may vary depending on mesh settings and boundary conditions.  
 - Contributions and suggestions are welcome.
 
+I constructed a monopole antenna in order to investigate its performance and radiation properties for wireless communication applications. For frequencies like 3.3 GHz, which are frequently utilised in contemporary telecom systems, the monopole design is straightforward, economical, and effective.  Additionally, it offers an omnidirectional emission pattern, which qualifies it for use in mobile communication systems and base stations.  Building it helped me understand antenna design principles, impedance matching, and simulation analysis using HFSS.
